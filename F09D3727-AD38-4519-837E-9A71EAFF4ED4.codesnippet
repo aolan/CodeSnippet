@@ -3,32 +3,25 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>TTCellInit</string>
+	<string>TTInteger</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- (instancetype)initWithStyle:(UITableViewCellStyle)style reuseIdentifier:(NSString *)reuseIdentifier
-{
-    self = [super initWithStyle:style reuseIdentifier:reuseIdentifier];
-    if (self) {
-        &lt;#statements#&gt;
-    }
-    return self;
-}
+	<string>@property (nonatomic, assign) NSInteger &lt;#property#&gt;;
 </string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>C794F605-8CC6-4421-A48E-542BB6421957</string>
+	<string>F09D3727-AD38-4519-837E-9A71EAFF4ED4</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C-Plus-Plus</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>TTCellInit</string>
+	<string>TTInteger</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Cell initWithStyle</string>
+	<string>Property NSInteger</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
